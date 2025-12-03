@@ -26,4 +26,4 @@ I'd like to hear from the builders and community managers in my network:
 
 ---
 
-**Tags:** `web3-strategy` `digital-marketing` `community-building` `nft-marketing` `axie-infinity`
+**Tags:** `web3-strategy` `digital-marketing` `community-building` `nft-marketing` `axie-infinity` `web3revolution` 'web3blockchain` `web3enespañol` `web3socialmedia` `web3e`
