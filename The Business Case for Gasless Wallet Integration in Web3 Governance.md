@@ -20,4 +20,4 @@ This strategic segmentation is **essential** for protocols aiming for institutio
 
 ---
 
-#DeFi #Governance #Web3Strategy #DAO #Uniswap #Web3
+tags: DeFi, DAO, Governance, Web3Strategy, Gasless Wallet, Uniswap, Web3
